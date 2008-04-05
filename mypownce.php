@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: MyPOWNCE
-Plugin URI: http://a86p.wordpress.com/projects/mypownce
+Plugin URI: http://fushji.netsons.org/?page_id=9
 Description: Send post to Pownce from wp admin panel
 Author: Antonio Perrone <fUsHji>
-Author URI: http://a86p.wordpress.com
+Author URI: http://fushji.netsons.org
 */
 
 include ("pownceapi.class.php");

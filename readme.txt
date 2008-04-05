@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: Antonio Perrone
-Donate link: http://a86p.wordpress.com
+Donate link: http://fushji.netsons.org
 Tags: pownce, admin, api, service, plugin
 Requires at least: 2.0.0
 Tested up to: 2.3.2
